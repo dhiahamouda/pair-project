@@ -8,6 +8,7 @@ body {
   .container {
     background-image: url("https://img.freepik.com/premium-photo/black-marble-texture-abstract-background-pattern-design_158502-344.jpg");
     max-width: 800px;
+    height: 100vh;
     margin: 50px auto;
     background-color: #0f0f0f;
     padding: 20px;
@@ -64,3 +65,4 @@ body {
     margin-top: 20px;
     color: #7f8c8d;
   }
+  
